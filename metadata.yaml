@@ -21,6 +21,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Famous Discoverers and Explores of America
 
   Their Voyages, Battles, and Hardships in Traversing and Conquering the Unknown Territories
